@@ -21,6 +21,7 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 ### 2. Project Motivation
 This project is the Capstone project of my Data Scientist nanodegree with Udacity. As students in the nanodegree, we have the option to take part in the Starbucks Capstone Challenge.
 
+
 For the challenge, Udacity provided simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
 In this project, I use the data to answer 2 business questions:
