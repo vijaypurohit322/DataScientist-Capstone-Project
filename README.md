@@ -47,5 +47,5 @@ The data used in the project is in the files portfolio.json, profile.json and tr
 Data for coding project was provided by Udacity.
 ----------------------
 
-[Follow me](https://github.com/vijaypurohit322/) for more updates.
+- [Follow me](https://github.com/vijaypurohit322/) for more updates.
 
