@@ -47,4 +47,3 @@ Data for coding project was provided by Udacity.
 ----------------------
 
 - [Follow me](https://github.com/vijaypurohit322/) for more updates.
-
