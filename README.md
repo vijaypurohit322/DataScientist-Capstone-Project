@@ -4,6 +4,7 @@
 ### 1. Installations
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
 
+
 - pandas
 - numpy
 - math
